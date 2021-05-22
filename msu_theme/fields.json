@@ -1,0 +1,14 @@
+[{
+  "type": "group",
+  "name": "typography",
+  "label": "Typography",
+  "children": [
+    {
+      "type": "font",
+      "name": "h1_font",
+      "label": "Heading 1",
+      "load_external_fonts": true,
+      "default": {}
+    }
+ ]
+}]

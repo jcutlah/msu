@@ -1,0 +1,15 @@
+{
+  "name": "msu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hs watch --account=DEV msu_theme msu_theme",
+    "fetch:dev": "hs fetch --account=DEV Knowledge Knowledge --overwrite",
+    "fetch:prod": "hs fetch --account=PROD Knowledge Knowledge --overwrite",
+    "deploy:dev": "hs upload --account=DEV msu_theme msu_theme",
+    "deploy:prod": "hs upload --account=PROD Knowledge Knowledge"
+  },
+  "author": "",
+  "license": "ISC"
+}

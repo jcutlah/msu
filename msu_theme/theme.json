@@ -1,0 +1,15 @@
+{
+  "label": "MSU",
+  "preview_path": "./templates/business_listing.html",
+  "screenshot_path":"./images/templates/homepage.jpg",
+  "enable_domain_stylesheets": false,
+  "version":"1.0",
+  "author":{
+    "name":"James Cutler",
+    "email":"jamescutler1111@gmail.com",
+    "url":"https://jamespcutler.com/"
+  },
+  "documentation_url":"https://theme-provider.com/cool-theme/documentation",
+  "license":"./license.txt",
+  "example_url":"https://theme-provider.com/cool-theme/demo"
+}
