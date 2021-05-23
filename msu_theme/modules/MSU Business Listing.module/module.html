@@ -1,0 +1,7 @@
+{% if dynamic_page_route_level == 0 %}
+	Top Level Template
+{% elif dynamic_page_route_level == 1 %}
+	Parent table template (/york /cumberland)
+{% elif dynamic_page_route_level == 2 %}
+	Child table template (/york/kittery etc., /cumberland/yarmouth etc.)
+{% endif %}

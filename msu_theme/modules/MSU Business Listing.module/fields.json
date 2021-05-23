@@ -1,0 +1,8 @@
+[ {
+  "id" : "d04f34b0-121d-77a0-e3f7-b7513d9e4f1c",
+  "name" : "select_table",
+  "label" : "Select Table",
+  "required" : false,
+  "locked" : false,
+  "type" : "hubdbtable"
+} ]
